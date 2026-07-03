@@ -13,6 +13,10 @@ Lightweight & Portable: No installation required, zero background processes, and
 
 Safe & Reliable: Built-in safeguards ensure critical system files and personal data are never touched.
 
+How to use: Click "Launch.vbs" to run
+
+
+
 
 C盘清理工具：
 
@@ -28,6 +32,8 @@ C盘清理工具：
 轻量便携： 无需安装，零后台常驻，软件体积小巧。
 
 安全可靠： 内置安全防护机制，确保绝不触碰核心系统文件和用户个人数据。
+
+使用方法：点击运行 启动C盘清理工具.vbs
 
 
 
